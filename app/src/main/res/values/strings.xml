@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="kp">Kp</string>
+    <string name="imdb">Imdb</string>
+    <string name="favourites">Избранное</string>
+</resources>
